@@ -1,5 +1,5 @@
 ### Hi there 👋
-Abhishek this side. I'm an undergraduate-level engineering student. I am a motivated and driven person who is very passionate about the things I like to do. Working with data is something that really excites me and drives me to learn something new regularly.
+Abhishek this side. I'm an undergraduate-level engineering student. I am a motivated and driven person who is very passionate about the things I like to do. Working with data is something that really excites me and drives me to learn something new regularly and step outside of my comfort zone.
 
 <!--
 **abhishek-252/abhishek-252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
