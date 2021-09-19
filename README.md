@@ -1,5 +1,5 @@
 ### Hi there 👋
-Abhishek this side. I'm an undergraduate-level engineering student. I am a motivated and driven person who is very passionate about the things I like to do. Working with data is something that really excites me and drives me to learn something new regularly and step outside of my comfort zone.
+Abhishek this side. I am an undergraduate-level engineering student. I am a motivated and driven person who is very passionate about the things I like to do. Working with data is something that really excites me and drives me to learn something new regularly and step outside of my comfort zone.
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/abhi252/)
